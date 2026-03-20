@@ -1,0 +1,9 @@
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\obj\Debug\СР_Зубрев_Д194_1.csprojAssemblyReference.cache
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\obj\Debug\СР_Зубрев_Д194_1.Form1.resources
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\obj\Debug\СР_Зубрев_Д194_1.Properties.Resources.resources
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\obj\Debug\СР_Зубрев_Д194_1.csproj.GenerateResource.cache
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\bin\Debug\СР_Зубрев_Д194_1.exe.config
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\bin\Debug\СР_Зубрев_Д194_1.exe
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\bin\Debug\СР_Зубрев_Д194_1.pdb
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\obj\Debug\СР_Зубрев_Д194_1.exe
+C:\Users\zusa\source\repos\СР_Зубрев_Д194_1\СР_Зубрев_Д194_1\obj\Debug\СР_Зубрев_Д194_1.pdb
